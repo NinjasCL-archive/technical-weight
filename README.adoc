@@ -7,7 +7,10 @@ A presentation (in spanish) about https://bartwronski.com/2016/06/26/technical-w
 Presented in _July 2020_ at https://beerjs.cl/valdivia[BeerJS Valdivia, Chile].
 
 
-link:technical-weight.pdf{ext-relative}[See the Presentation - Ver presentación].
+- link:technical-weight.pdf{ext-relative}[Ver presentación PDF].
+
+- https://clsource.github.io/technical-weight/[Ver presentatión HTML].
+
 
 Escrito por https://ninjas.cl[Camilo Castro].
 
