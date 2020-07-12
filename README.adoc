@@ -1,0 +1,9 @@
+:ext-relative
+# Technical Weight
+
+A presentation (in spanish) about https://bartwronski.com/2016/06/26/technical-weight/[Technical Weight] (Peso técnico).
+
+Presented in _July 2020_ at https://beerjs.cl/valdivia[BeerJS Valdivia, Chile].
+
+
+link:technical-weight.pdf{ext-relative}[See the Presentation - Ver presentación].
