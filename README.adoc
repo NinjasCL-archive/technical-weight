@@ -1,4 +1,5 @@
-:ext-relative
+:ext-relative:
+
 # Technical Weight
 
 A presentation (in spanish) about https://bartwronski.com/2016/06/26/technical-weight/[Technical Weight] (Peso técnico).
