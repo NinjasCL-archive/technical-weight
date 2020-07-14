@@ -11,6 +11,8 @@ Presented in _July 2020_ at https://beerjs.cl/valdivia[BeerJS Valdivia, Chile].
 
 - https://clsource.github.io/technical-weight/[Ver presentatión HTML].
 
+- https://www.youtube.com/watch?v=DvV13Rfp05g&feature=youtu.be[Ver Youtube].
+
 
 Escrito por https://ninjas.cl[Camilo Castro].
 
